@@ -18,7 +18,8 @@ def third_challenge
         :status => "alive"
         },
       :hero_friends => [
-        {name: "Benvolio", age: "17", status: "worried"}
+        {name: "Benvolio", age: "17", status: "worried"},
+        {name: "Mercutio", age: "18", status: "hot-headed" }
       ]
    },
    :capulet => {
